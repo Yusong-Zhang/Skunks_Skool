@@ -99,7 +99,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Bagging
 - Random Forest
 - AdaBoost
-
+-
 ### Unsupervised Learning
 - Clustering
   - Hierchical clustering
